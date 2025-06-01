@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Front End<br>I'm looking to collaborate on Front End<br>I'm looking for help with<br>I'm currently learning <br>Ask me about<br>Fan fact
+Hi 👋, I'm Armağan<br>🔭 I'm currently working on Front End<br>👯 I'm looking to collaborate on Front End<br>🤝 I'm looking for help with<br>🌱 I'm currently learning <br>💬 Ask me about<br>⚡ Fan fact
 
 
 ## 🌐 Socials:
