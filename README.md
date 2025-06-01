@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Github<br>I'm looking to collaborate on Github<br>I'm looking for help with<br>I'm currently learning <br>Ask me about<br>Fan fact
+I'm currently working on Front End<br>I'm looking to collaborate on Front End<br>I'm looking for help with<br>I'm currently learning <br>Ask me about<br>Fan fact
 
 
 ## 🌐 Socials:
