@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I'm @armsalter (Armağan Salter), a Software Developer with a keen interest in Frontend <br>👯 My interests include: Software Development<br>🌱Technologies I use: JavaScript,HTML, CSS,SASS, Bootstrap,React...<br>💞️ I work diligently on every project I take on and try to make a difference. I want to do an efficient and beautiful job.<br>💬 Ask me aboutJavascript.<br>⚡I enjoy and love this job <br>📫 How can you reach me: eminar38s@gmail.com <br> Thank you for visiting my profile! I'm looking forward to collaborating on projects and learning new things together.
+🔭 Hi, I'm @armsalter (Armağan Salter), a Software Developer with a keen interest in Frontend <br>👯 My interests include: Software Development<br>🌱Technologies I use: JavaScript,HTML, CSS,SASS, Bootstrap,Javascript,React ....<br>💞️ I work diligently on every project I take on and try to make a difference. I want to do an efficient and beautiful job.<br>💬 Ask me aboutJavascript.<br>⚡I enjoy and love this job <br>📫 How can you reach me: eminar38s@gmail.com <br> Thank you for visiting my profile! I'm looking forward to collaborating on projects and learning new things together.
 
 
 ## 🌐 Socials:
